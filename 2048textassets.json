@@ -1,0 +1,5 @@
+{
+  "instructions_text": "2048 is a game where you combine numbered tiles in order to gain a higher numbered tile. In this game you start with two tiles, the lowest possible number available is two. Then you will play by combining the tiles with the same number to have a tile with the sum of the number on the two tiles.\n\nThe default controls for the game are the arrow keys, however this can be changed in the controls section of the game. While ingame, press 'A' to run the AI.",
+  "controls_text": "To change a control, click on the current value and input a key. To cancel the process, re-click it.",
+  "save_template": "Name: {name}\nScore: {score}\nDistance from prediction: {prediction}\nScore per second: {score_second}\n\nYour attempt has been saved to the high score leaderboard"
+}
