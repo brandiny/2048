@@ -6,11 +6,11 @@
 <table>
     <tr>
         <td>Windows</td>
-        <td><code>py -m venv env && py -m pip install -r requirements.txt</code></td>
+        <td><code>py -m venv env && env\Scripts\activate </code><br><code>py -m pip install -r requirements.txt</code></td>
     </tr>
     <tr>
         <td>Linux</td>
-        <td><code>python3 -m venv env && python3 -m pip install -r requirements.txt</code></td>
+        <td><code>python3 -m venv env && env/Scripts/activate</code><br><code>python3 -m pip install -r requirements.txt</code></td>
     </tr>
 </table>
 
@@ -18,11 +18,11 @@
 <table>
     <tr>
         <td>Windows</td>
-        <td><code>env\Scripts\activate && python main.pyw</code></td>
+        <td><code>python main.pyw</code></td>
     </tr>
     <tr>
         <td>Linux</td>
-        <td><code>env/Scripts/activate && python3 main.pyw</code></td>
+        <td><code>python3 main.pyw</code></td>
     </tr>
 </table>
 
