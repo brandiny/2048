@@ -6,11 +6,11 @@ Build Instructions
 <table>
     <tr>
         <td>Windows</td>
-        <td>`py -m venv env && py -m pip install -r requirements.txt`</td>
+        <td><code>py -m venv env && py -m pip install -r requirements.txt</code></td>
     </tr>
     <tr>
         <td>Linux</td>
-        <td>`python3 -m venv env && python3 -m pip install -r requirements.txt`</td>
+        <td><code>python3 -m venv env && python3 -m pip install -r requirements.txt</code></td>
     </tr>
 
 In addition to the regular game mechanics, there are:
