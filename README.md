@@ -18,7 +18,7 @@
 <table>
     <tr>
         <td>Windows</td>
-        <td><code>env\Scripts\activate && python3 main.pyw</code></td>
+        <td><code>env\Scripts\activate && python main.pyw</code></td>
     </tr>
     <tr>
         <td>Linux</td>
