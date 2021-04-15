@@ -2,6 +2,9 @@
 
 2048 is a classic mobile game. This is a spinoff of 2048 for desktop using Python3's built-in tkinter framework.
 
+To install, run these commands while in the 2048 folder with cmd:
+`python3 -m venv env && python3 -m pip install -r requirements.txt`
+
 In addition to the regular game mechanics, there are:
 * Local highscore tables
 * In-depth game statistics
