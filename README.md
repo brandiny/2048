@@ -2,7 +2,7 @@
 
 2048 is a classic mobile game. This is a spinoff of 2048 for desktop using Python3's built-in tkinter framework.
 
-<img alt=2048_preview src="images/2048preview.png">
+<img alt=2048_preview src="https://github.com/brandiny/2048/blob/main/images/2048preview.PNG">
 
 
 ## Build Instructions
