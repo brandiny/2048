@@ -14,6 +14,19 @@
     </tr>
 </table>
 
+## Run Instructions
+<table>
+    <tr>
+        <td>Windows</td>
+        <td><code>env\Scripts\activate && python3 main.pyw</code></td>
+    </tr>
+    <tr>
+        <td>Linux</td>
+        <td><code>env/Scripts/activate && python3 main.pyw</code></td>
+    </tr>
+</table>
+
+
 ## Features
 In addition to the traditional game mechanics, there are:
 * Local highscore tables
@@ -27,4 +40,4 @@ The code utilises:
 * Use of 3rd party libraries (for image manipulation)
 
 ## Documentation
-If you would like more information, there is a full documentation of the development process and tests used - FULL_DOCUMENTATION.pdf
+If you would like more information, there is a full documentation of the development process and tests used.
