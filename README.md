@@ -9,13 +9,6 @@ Run these instructions within the 2048/ folder, in the terminal.
         <td>Windows</td>
         <td><code>py -m venv env && env\Scripts\activate && py -m pip install -r requirements.txt</code></td>
     </tr>
-    <tr>
-        <td>Linux</td>
-        <td>
-            <code>sudo apt-get install python-tk</code>
-            <code>python3 -m venv env && source env/bin/activate && python3 -m pip install -r requirements.txt</code>
-        </td>
-    </tr>
 </table>
 
 ## Run Instructions
@@ -23,10 +16,6 @@ Run these instructions within the 2048/ folder, in the terminal.
     <tr>
         <td>Windows</td>
         <td><code>python main.pyw</code></td>
-    </tr>
-    <tr>
-        <td>Linux</td>
-        <td><code>python3 main.pyw</code></td>
     </tr>
 </table>
 
