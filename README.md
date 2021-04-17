@@ -3,14 +3,15 @@
 2048 is a classic mobile game. This is a spinoff of 2048 for desktop using Python3's built-in tkinter framework.
 
 ## Build Instructions
+Run these instructions within the 2048/ folder, in the terminal.
 <table>
     <tr>
         <td>Windows</td>
-        <td><code>py -m venv env && env\Scripts\activate </code><br><code>py -m pip install -r requirements.txt</code></td>
+        <td><code>py -m venv env && env\Scripts\activate && py -m pip install -r requirements.txt</code></td>
     </tr>
     <tr>
         <td>Linux</td>
-        <td><code>python3 -m venv env && source env/bin/activate</code><br><code>python3 -m pip install -r requirements.txt</code></td>
+        <td><code>python3 -m venv env && source env/bin/activate && python3 -m pip install -r requirements.txt</code></td>
     </tr>
 </table>
 
