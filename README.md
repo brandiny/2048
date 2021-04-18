@@ -2,6 +2,13 @@
 
 2048 is a classic mobile game. This is a spinoff of 2048 for desktop using Python3's built-in tkinter framework.
 
+
+# Languages
+<p align="center">Pure Python 🐍./p>
+<p align="center">
+  <a href="https://docs.python.org/3/library/tkinter.html"><img alt="Python"src="https://img.shields.io/badge/Code-Python(Tkinter)-0063c6"/></a>
+</p>
+
 ## Build Instructions
 Run these instructions within the 2048/ folder, in the terminal.
 <table>
