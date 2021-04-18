@@ -4,9 +4,9 @@
 
 
 # Languages
-<p align="center">Pure Python 🐍./p>
-<p align="center">
-  <a href="https://docs.python.org/3/library/tkinter.html"><img alt="Python"src="https://img.shields.io/badge/Code-Python(Tkinter)-0063c6"/></a>
+<p align="center">Uses Python (Tkinter, Pillow) 🐍
+<a href="https://docs.python.org/3/library/tkinter.html"><img alt="Python"src="https://img.shields.io/badge/Graphics-Tkinter-0063c6"/></a>
+ <a href="https://pillow.readthedocs.io/en/stable/"><img alt="Python"src="https://img.shields.io/badge/Images-Pillow-0060c6"/></a>
 </p>
 
 ## Build Instructions
