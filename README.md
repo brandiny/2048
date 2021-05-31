@@ -8,7 +8,10 @@
 <a href="https://pillow.readthedocs.io/en/stable/"><img alt="Python"src="https://img.shields.io/badge/Images-Pillow-0060c6"/></a>
 </p>
 
-## Build Instructions
+## Quick Start
+Run the file named 2048.exe, a pre-compiled python executable.
+
+## Custom Build Instructions
 With Python3 installed, run these instructions within the 2048/ folder, in the terminal. 
 <table>
     <tr>
@@ -17,9 +20,7 @@ With Python3 installed, run these instructions within the 2048/ folder, in the t
     </tr>
 </table>
 
-Alternatively you can double click the file, build.bat.
-
-## Run Instructions
+## Custom Run Instructions
 <table>
     <tr>
         <td>Windows</td>
