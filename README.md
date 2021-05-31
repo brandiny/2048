@@ -9,7 +9,7 @@
 </p>
 
 ## Build Instructions
-Run these instructions within the 2048/ folder, in the terminal.
+With Python3 installed, run these instructions within the 2048/ folder, in the terminal. Or, double click build.bat
 <table>
     <tr>
         <td>Windows</td>
