@@ -9,13 +9,15 @@
 </p>
 
 ## Build Instructions
-With Python3 installed, run these instructions within the 2048/ folder, in the terminal. Or, double click build.bat
+With Python3 installed, run these instructions within the 2048/ folder, in the terminal. 
 <table>
     <tr>
         <td>Windows</td>
         <td><code>py -m venv env && env\Scripts\activate && py -m pip install -r requirements.txt</code></td>
     </tr>
 </table>
+
+Alternatively you can double click the file, build.bat.
 
 ## Run Instructions
 <table>
