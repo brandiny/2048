@@ -2,27 +2,29 @@
 
 2048 is a classic mobile game. This is a spinoff of 2048 for desktop using Python3's built-in tkinter framework.
 
-## Build Instructions
+
+# Languages
+<p align="center"><a href="https://docs.python.org/3"><img alt="Python"src="https://img.shields.io/badge/Language-Python-0063c6"/></a><a href="https://docs.python.org/3/library/tkinter.html"><img alt="Python"src="https://img.shields.io/badge/Graphics-Tkinter-0063c6"/></a>
+<a href="https://pillow.readthedocs.io/en/stable/"><img alt="Python"src="https://img.shields.io/badge/Images-Pillow-0060c6"/></a>
+</p>
+
+## Quick Start
+Run the file named 2048.exe, a pre-compiled python executable.
+
+## Custom Build Instructions
+With Python3 installed, run these instructions within the 2048/ folder, in the terminal. 
 <table>
     <tr>
         <td>Windows</td>
-        <td><code>py -m venv env && env\Scripts\activate </code><br><code>py -m pip install -r requirements.txt</code></td>
-    </tr>
-    <tr>
-        <td>Linux</td>
-        <td><code>python3 -m venv env && env/Scripts/activate</code><br><code>python3 -m pip install -r requirements.txt</code></td>
+        <td><code>py -m venv env && env\Scripts\activate && py -m pip install -r requirements.txt</code></td>
     </tr>
 </table>
 
-## Run Instructions
+## Custom Run Instructions
 <table>
     <tr>
         <td>Windows</td>
         <td><code>python main.pyw</code></td>
-    </tr>
-    <tr>
-        <td>Linux</td>
-        <td><code>python3 main.pyw</code></td>
     </tr>
 </table>
 
